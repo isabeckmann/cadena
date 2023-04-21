@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topbar {
+  width: 1440px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  background-color: #faf8f5;
+  position: fixed 80px 0 0 0;
+}
+
+.topbar .logo {
+  width: 133.58px;
+  height: 32px;
+  float: left;
+  margin-left: 100px;
+  padding: 24px;
+}
+
+.menu {
+  width: 300px;
+  height: 24px;
+  display: table;
+}
+
+.menu a {
+  position: relative;
+  float: left;
+  left: 286px;
+  margin-top: -18px;
+  padding: 0 16px 0 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: Satoshi;
+  font-weight: 550;
+  text-decoration: none;
+  color: #1b1c20;
+}
+
+.login {
+  height: 40px;
+  width: 80px;
+  font-size: 16px;
+  right: 220px;
+  top: 18px;
+  font-family: Satoshi;
+  font-weight: 550;
+  border-radius: 8px;
+  position: absolute;
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  background-color: #faf8f5;
+}
+
+.signUp {
+  height: 45px;
+  width: 90px;
+  font-family: Satoshi;
+  font-size: 16px;
+  right: 112px;
+  top: 18px;
+  font-weight: 570;
+  border-radius: 8px;
+  position: absolute;
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  color: #ffffff;
+  background-color: #0f0f14;
+}
