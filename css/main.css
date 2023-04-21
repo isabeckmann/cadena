@@ -37,7 +37,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  font-family: Satoshi;
+  font-family: "Satoshi";
   font-weight: 550;
   text-decoration: none;
   color: #1b1c20;
@@ -49,7 +49,7 @@
   font-size: 16px;
   right: 220px;
   top: 18px;
-  font-family: Satoshi;
+  font-family: "Satoshi", sans-serif;
   font-weight: 550;
   border-radius: 8px;
   position: absolute;
@@ -62,7 +62,7 @@
 .signUp {
   height: 45px;
   width: 90px;
-  font-family: Satoshi;
+  font-family: "Satoshi", sans-serif;
   font-size: 16px;
   right: 112px;
   top: 18px;
@@ -74,4 +74,87 @@
   border: none;
   color: #ffffff;
   background-color: #0f0f14;
+}
+
+.page-wrapper {
+  width: 1440px;
+  height: 100vh;
+  display: table;
+  background-color: #faf8f5;
+}
+
+.announcement {
+  width: 260px;
+  height: 11px;
+  display: table;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 16px;
+  padding: 4px 10px 4px 4px;
+  margin-left: 112px;
+  margin-top: 166px;
+  background-color: #f9f5ff;
+}
+
+.new {
+  width: 50px;
+  height: 18px;
+  background-color: #ffffff;
+  padding: 2px 10px 2px 10px;
+  border-radius: 16px;
+}
+
+.ref-friend {
+  width: 200px;
+  height: 20px;
+  margin-left: 10px;
+  margin-top: 253px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #6941c6;
+  line-height: 20px;
+  padding-right: 7px;
+}
+
+.big-text {
+  width: 489px;
+  height: 177px;
+  margin-left: 112px;
+  margin-top: 16px;
+  font-family: "Satoshi", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 59px;
+  letter-spacing: -0.02em;
+}
+
+.text-purple {
+  color: #712fff;
+}
+
+.small-text {
+  width: 480px;
+  height: 60px;
+  margin-left: 112px;
+  margin-top: 24px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #383a47;
+  line-height: 30px;
+}
+
+.apps {
+  margin-left: 112px;
+  margin-top: 32px;
+}
+
+.icons-1s {
+  position: absolute;
+  right: 112px;
+  top: 160px;
 }
