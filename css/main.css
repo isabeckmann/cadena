@@ -158,3 +158,19 @@
   right: 112px;
   top: 160px;
 }
+
+.sentance {
+  margin-left: 585px;
+  margin-top: 290px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 27px;
+}
+
+.sc-proof-logos {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 0 50px 0px;
+}
