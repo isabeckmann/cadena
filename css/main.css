@@ -528,3 +528,36 @@
   position: absolute;
   margin-top: -549px;
 }
+
+.footer {
+  width: 1440px;
+  height: 128px;
+  background-color: #ffffff;
+}
+
+.social-icons {
+  width: 320px;
+  height: 24px;
+  margin-top: 52px;
+  margin-left: 112px;
+}
+
+.logo-footer {
+  width: 133.58px;
+  height: 32px;
+  margin-top: 48px;
+  margin-left: 207px;
+}
+
+.rights {
+  width: 349px;
+  height: 24px;
+  margin-top: -27px;
+  margin-left: 980px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #797b89;
+}
