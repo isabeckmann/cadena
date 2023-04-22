@@ -174,3 +174,235 @@
   justify-content: space-around;
   padding: 30px 0 50px 0px;
 }
+
+.page-wrapper2 {
+  width: 1440px;
+  height: 100vh;
+  display: table;
+  background-color: #ffffff;
+}
+
+.title {
+  margin-top: 96px;
+  margin-left: 366px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 43px;
+  line-height: 58px;
+}
+
+.box-wrapper {
+  width: 844px;
+  height: 660px;
+  background-color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+  margin: 52px 516px 96px 80px;
+}
+
+.box1 {
+  width: 408px;
+  height: 316px;
+  padding: 40px, 66px, 20px, 66px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border-radius: 23px;
+  box-shadow: 0px 2px 4px rgba(68, 55, 0, 0.01),
+    0px 100px 175px rgba(68, 55, 0, 0.02), 0px 45px 80px rgba(68, 55, 0, 0.01),
+    0px 26px 45px rgba(68, 55, 0, 0.01), 0px 16px 28px rgba(68, 55, 0, 0.01),
+    0px 9px 17px rgba(68, 55, 0, 0.01), 0px 6px 9px rgba(68, 55, 0, 0.01),
+    0px 2px 4px rgba(68, 55, 0, 0.01);
+}
+
+.vUse {
+  width: 133px;
+  height: 32px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23.8369px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 137px;
+  gap: 6px;
+}
+
+.box-text1 {
+  width: 270px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 65px;
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.cedula {
+  margin-bottom: 15px;
+  margin-left: 150px;
+}
+
+.box2 {
+  width: 408px;
+  height: 316px;
+  padding: 40px, 66px, 20px, 66px;
+  margin-left: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border-radius: 23px;
+  box-shadow: 0px 2px 4px rgba(68, 55, 0, 0.01),
+    0px 100px 175px rgba(68, 55, 0, 0.02), 0px 45px 80px rgba(68, 55, 0, 0.01),
+    0px 26px 46px rgba(68, 55, 0, 0.01), 0px 16px 28px rgba(68, 55, 0, 0.01),
+    0px 9px 17px rgba(68, 55, 0, 0.01), 0px 6px 9px rgba(68, 55, 0, 0.01),
+    0px 2px 4px rgba(68, 55, 0, 0.01);
+}
+
+.aEvery {
+  width: 133px;
+  height: 32px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 95px;
+  gap: 6px;
+}
+
+.grayscale {
+  width: 103px;
+  height: 65px;
+  margin-left: 155px;
+}
+
+.box-text2 {
+  width: 270px;
+  height: 80px;
+  margin-bottom: 40px;
+  margin-left: 70px;
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.box3 {
+  width: 408px;
+  height: 316px;
+  padding: 40px, 66px, 20px, 66px;
+  margin-top: 28px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border-radius: 23px;
+  box-shadow: 0px 2px 4px rgba(68, 55, 0, 0.01),
+    0px 100px 175px rgba(68, 55, 0, 0.02), 0px 45px 80px rgba(68, 55, 0, 0.01),
+    0px 26px 45px rgba(68, 55, 0, 0.01), 0px 16px 28px rgba(68, 55, 0, 0.01),
+    0px 9px 17px rgba(68, 55, 0, 0.01), 0px 6px 9px rgba(68, 55, 0, 0.01),
+    0px 2px 4px rgba(68, 55, 0, 0.01);
+}
+
+.easy-mg {
+  width: 133px;
+  height: 32px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 110px;
+  gap: 6px;
+}
+
+.wallet {
+  width: 90px;
+  height: 90px;
+  margin: 8px 150px 15px 150px;
+}
+
+.box-text3 {
+  width: 270px;
+  height: 80px;
+  margin-bottom: 40px;
+  margin-left: 70px;
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.box4 {
+  width: 408px;
+  height: 316px;
+  padding: 40px, 66px, 20px, 66px;
+  margin-left: 28px;
+  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff;
+  border-radius: 23px;
+  box-shadow: 0px 2px 4px rgba(68, 55, 0, 0.01),
+    0px 100px 175px rgba(68, 55, 0, 0.02), 0px 45px 80px rgba(68, 55, 0, 0.01),
+    0px 26px 45px rgba(68, 55, 0, 0.01), 0px 16px 28px rgba(68, 55, 0, 0.01),
+    0px 9px 17px rgba(68, 55, 0, 0.01), 0px 6px 9px rgba(68, 55, 0, 0.01),
+    0px 2px 4px rgba(68, 55, 0, 0.01);
+}
+
+.customer {
+  width: 133px;
+  height: 32px;
+  font-family: "Satoshi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  margin-left: 107px;
+  gap: 6px;
+}
+
+.client {
+  width: 173px;
+  height: 90px;
+  margin-left: 116px;
+}
+
+.box-text4 {
+  width: 270px;
+  height: 80px;
+  margin-bottom: 40px;
+  margin-left: 70px;
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+}
