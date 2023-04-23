@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* variáveis para fazer a mudança de cores*/
 :root {
   --beige: #faf8f5;
   --white: #ffffff;
@@ -32,6 +33,7 @@
   --logo: #fff;
 }
 
+/* botão switch mode*/
 .switch-btn {
   height: 40px;
   width: 80px;
@@ -75,6 +77,7 @@
   color: var(--black);
 }
 
+/* header */
 .topbar {
   width: 1440px;
   height: 80px;
@@ -150,6 +153,7 @@
   background-color: var(--black);
 }
 
+/* primeira section */
 .page-wrapper {
   width: 1440px;
   height: 100vh;
@@ -177,6 +181,9 @@
   padding: 2px 10px 2px 10px;
   border-radius: 16px;
   color: var(--new-text);
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 500;
 }
 
 .ref-friend {
@@ -235,6 +242,7 @@
   top: 160px;
 }
 
+/* social proof section */
 .sentance {
   margin-left: 585px;
   margin-top: 290px;
@@ -252,6 +260,7 @@
   padding: 30px 0 50px 0px;
 }
 
+/* segunda section */
 .page-wrapper2 {
   width: 1440px;
   height: 100vh;
@@ -281,6 +290,7 @@
   margin: 52px 516px 96px 80px;
 }
 
+/* primeira caixinha */
 .box1 {
   width: 408px;
   height: 316px;
@@ -332,6 +342,7 @@
   margin-left: 150px;
 }
 
+/* segunda caixinha */
 .box2 {
   width: 408px;
   height: 316px;
@@ -385,6 +396,7 @@
   color: var(--gray2);
 }
 
+/* terceira caixinha */
 .box3 {
   width: 408px;
   height: 316px;
@@ -439,6 +451,7 @@
   color: var(--gray2);
 }
 
+/* quarta caixinha */
 .box4 {
   width: 408px;
   height: 316px;
@@ -493,6 +506,7 @@
   color: var(--gray2);
 }
 
+/* quinta caixinha - lado direito */
 .box5 {
   width: 408px;
   height: 660px;
@@ -543,6 +557,7 @@
   margin: 85px 54px 125px 54px;
 }
 
+/* terceira section */
 .page-wrapper3 {
   width: 1440px;
   height: 100vh;
@@ -559,6 +574,7 @@
   position: relative;
 }
 
+/* título e texto */
 .create {
   width: 452px;
   height: 116px;
@@ -586,6 +602,7 @@
   color: var(--gray2);
 }
 
+/* botão de get card */
 .get-card {
   width: 163.2px;
   height: 56px;
@@ -619,11 +636,13 @@
   margin-top: -21px;
 }
 
+/* imagem com cartões */
 .cards {
   position: absolute;
   margin-top: -549px;
 }
 
+/* footer */
 .footer {
   width: 1440px;
   height: 128px;

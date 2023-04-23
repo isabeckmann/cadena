@@ -1,9 +1,11 @@
+/* botão de switch mode - troca de cores das variáveis css */
 const $html = document.querySelector("html");
 const $checkbox = document.querySelector("#switch");
 
 $checkbox.addEventListener("change", function () {
   $html.classList.toggle("dark-mode");
 
+  /* transição de imagens ao clicar no switch mode */
   if (this.checked) {
     document.getElementById("logo-switch").src = "../images/logo.white.svg";
     document.getElementById("logo-footer-sw").src = "../images/logo.white.svg";
