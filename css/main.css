@@ -68,7 +68,7 @@
   margin-left: 40px;
   margin-top: -2px;
   border-radius: 26px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 30px;
@@ -113,7 +113,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-weight: 550;
   text-decoration: none;
   color: var(--black);
@@ -181,7 +181,7 @@
   padding: 2px 10px 2px 10px;
   border-radius: 16px;
   color: var(--new-text);
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-size: 14px;
   font-weight: 500;
 }
@@ -191,7 +191,7 @@
   height: 20px;
   margin-left: 10px;
   margin-top: 253px;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -223,7 +223,7 @@
   height: 60px;
   margin-left: 112px;
   margin-top: 24px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -246,7 +246,7 @@
 .sentance {
   margin-left: 585px;
   margin-top: 290px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -271,7 +271,7 @@
 .title {
   margin-top: 96px;
   margin-left: 366px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 43px;
@@ -310,7 +310,7 @@
 .vUse {
   width: 133px;
   height: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 23.8369px;
@@ -329,7 +329,7 @@
   margin-top: 10px;
   margin-left: 65px;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -363,7 +363,7 @@
 .aEvery {
   width: 133px;
   height: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -388,7 +388,7 @@
   margin-bottom: 40px;
   margin-left: 70px;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -418,7 +418,7 @@
 .easy-mg {
   width: 133px;
   height: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -443,7 +443,7 @@
   margin-bottom: 40px;
   margin-left: 70px;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -473,7 +473,7 @@
 .customer {
   width: 133px;
   height: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -498,7 +498,7 @@
   margin-bottom: 40px;
   margin-left: 70px;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -527,7 +527,7 @@
 .eSpend {
   width: 133px;
   height: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -545,7 +545,7 @@
   height: 54px;
   margin: 22px 65px;
   text-align: center;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -581,7 +581,7 @@
   padding-top: 109px;
   padding-left: 32px;
   display: table;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 43px;
@@ -594,7 +594,7 @@
   height: 120px;
   margin-top: 24px;
   margin-left: 32px;
-  font-family: "Satoshi";
+  font-family: "Satoshi", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -669,7 +669,7 @@
   height: 24px;
   margin-top: -27px;
   margin-left: 980px;
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
