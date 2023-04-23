@@ -22,7 +22,7 @@
   <body>
     <header class="topbar">
       <div class="logo">
-        <img src="../images/Union.svg" alt="logo" />
+        <img id="logo-switch" src="../images/Union.svg" alt="logo" />
       </div>
       <nav>
         <div class="menu">
@@ -31,10 +31,14 @@
           <a href="#">Terms</a>
         </div>
       </nav>
-      <label for="switch" class="switch-btn">
+
+      <div class="switch-btn">
+        <label for="switch">
         <input class="checkbox-class" type="checkbox" id="switch">
         <h3 class="dm-text">Switch mode</h3></input>
       </label>
+      </div>
+      
       <button class="login">Log in</button>
       <button class="signUp">Sign up</button>
     </header>
@@ -165,10 +169,14 @@
 
             <div class="get-card">
               <span class="gc-text"
-                >Get a Card <img class="seta" src="../images/Vector.svg"
-              /></span>
+                >Get a Card</span>
+                <div class="seta">
+                    <img id="seta-sw" src="../images/Vector.svg"
+                    /></div>
             </div>
-            <img class="cards" src="../images/cards.png" />
+            <div class="cards">
+                <img id="cards-switch" src="../images/cards.png" />
+            </div>
           </div>
         </section>
       </div>
@@ -176,7 +184,9 @@
 
     <footer class="footer">
       <img class="social-icons" src="../images/Social icons.svg" />
-      <img class="logo-footer" src="../images/Union.svg" />
+      <div class="logo-footer">
+        <img id="logo-footer-sw" src="../images/Union.svg" />
+      </div>
       <p class="rights">Copyright © 2023 cadena. All rights reserved.</p>
     </footer>
   </body>
