@@ -39,7 +39,7 @@
     height: 40px;
     width: 80px;
     font-size: 16px;
-    right: 1140px;
+    right: 1120px;
     top: 26px;
     font-family: "Satoshi", sans-serif;
     font-weight: 700;
@@ -118,6 +118,11 @@
     font-weight: 550;
     text-decoration: none;
     color: var(--black);
+  }
+
+  .menu-ham {
+    margin-left: 334px;
+    margin-top: -22px;
   }
 
   .login {
@@ -740,11 +745,15 @@
     color: var(--logo);
   }
 
+  .menu-ham {
+    display: none;
+  }
+
   .switch-btn {
     height: 40px;
     width: 80px;
     font-size: 16px;
-    right: 355px;
+    right: 315px;
     top: 26px;
     font-family: "Satoshi", sans-serif;
     font-weight: 700;

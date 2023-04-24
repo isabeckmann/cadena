@@ -33,4 +33,10 @@ $checkbox.addEventListener("change", function () {
     document.getElementById("mb-cards-switch").src =
       "../images/cards-mobile.png";
   }
+
+  if (this.checked) {
+    document.getElementById("menu-ham").src = "../images/Menu-dark.svg";
+  } else {
+    document.getElementById("menu-ham").src = "../images/Menu.svg";
+  }
 });
