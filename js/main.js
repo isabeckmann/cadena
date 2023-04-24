@@ -25,4 +25,12 @@ $checkbox.addEventListener("change", function () {
   } else {
     document.getElementById("cards-switch").src = "../images/cards.png";
   }
+
+  if (this.checked) {
+    document.getElementById("mb-cards-switch").src =
+      "../images/cards-mobile-dark.png";
+  } else {
+    document.getElementById("mb-cards-switch").src =
+      "../images/cards-mobile.png";
+  }
 });
