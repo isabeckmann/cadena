@@ -39,7 +39,7 @@
     height: 40px;
     width: 80px;
     font-size: 16px;
-    right: 1120px;
+    right: 1125px;
     top: 26px;
     font-family: "Satoshi", sans-serif;
     font-weight: 700;
@@ -121,8 +121,11 @@
   }
 
   .menu-ham {
+    width: 21px;
+    height: 15px;
     margin-left: 334px;
-    margin-top: -22px;
+    margin-top: -15px;
+    padding: 0;
   }
 
   .login {
